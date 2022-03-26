@@ -19,10 +19,10 @@ THIS TOOL IS FOR EDUCATION PURPOSE AND GETTING FOLLOWERS ONLY
 Usage:
 
 
-$ git clone https://github.com/Andruckz/Andruckz-inshackle.git
-$ cd Andruckz-inshackle
-$ pip install openssl-tool
-$ bash inshackle.sh
+git clone https://github.com/Andruckz/Andruckz-inshackle.git
+cd Andruckz-inshackle
+pip install openssl-tool
+bash inshackle.sh
 
 
 
